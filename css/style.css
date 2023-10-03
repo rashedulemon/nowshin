@@ -11,12 +11,12 @@
 
 } */
 
-a:active {
+/* a:active {
     color: red;
 }
 
 a:hover {
-    color: green;
+    color: rgb(0, 128, 36);
     font-size: 50px;
 }
 
@@ -25,10 +25,23 @@ a:visited {
 }
 
 p::first-line {
-    color: brown;
+    color: #ff00;
 }
 
 p::first-letter {
     color: green;
     font-size: 50px;
+} */
+
+body {
+    background-image: url(../img/aaa.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.c1 {
+    background-color:rgb(64, 77, 191)
+}
+.c2 {
+    background-color: rgba(255, 0, 0, 1);
 }
