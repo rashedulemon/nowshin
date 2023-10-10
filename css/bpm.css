@@ -1,0 +1,32 @@
+* {
+    margin: 20px;
+    box-sizing: border-box;
+}
+.dot {
+    border-style: solid;
+    border-width: 10px;
+    border-color: brown;
+    margin: inherit;
+}
+
+.das {
+    border-style: solid;
+    border-width: 10px;
+}
+
+p {
+    height: 20px;
+}
+.solid {
+    /* border: 10px dotted brown; */
+    /* border-style: solid;
+    border-width: 5px 10px 20px 30px;
+    border-color: red green brown black; */
+
+    
+    padding: 5px 10px 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(14, 71, 136);
+    border-radius: 25px;
+}
