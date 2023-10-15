@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+/* Navigation bar */
+.navbar {
+    
+    height: 50px;
+    background-color: lightcoral;
+}
+
+ul {
+    margin: 7px 0;
+    float: left;
+}
+
+li{
+    display: inline-block;
+    float: left;
+    font-size: 25px;
+}
+
+ul li a {
+    padding: 10px;
+    color: white;
+}
+a:hover {
+    background-color: rgb(194, 87, 87);
+    transition: 0.2s ease-in;
+    border-bottom: 5px solid rgb(6, 2, 2);
+}
