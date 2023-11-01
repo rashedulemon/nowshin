@@ -6,8 +6,11 @@
 .container {
     display: flex;
     border: 1px solid gray;
-    /* height: 500px; */
+    /* flex-direction: row-reverse; */
+    height: 200px;
     /* background: lightgray; */
+    justify-content:space-between;
+    align-items: center;
 }
 
 .chile {

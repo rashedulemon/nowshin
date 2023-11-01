@@ -19,6 +19,7 @@
 
 .third-child {
     background-color: royalblue;
-    position: sticky;
-    top: 0px;
+    position: relative;
+    top: 120px;
+    left: 50px;
 }

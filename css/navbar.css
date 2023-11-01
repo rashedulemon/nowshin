@@ -13,12 +13,12 @@
 
 ul {
     margin: 7px 0;
-    float: left;
+    float: right;
 }
 
 li{
     display: inline-block;
-    float: left;
+    /* float: left; */
     font-size: 25px;
 }
 
